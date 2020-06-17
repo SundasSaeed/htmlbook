@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+background-image: url(../htmlBook/pic1.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+}
+a:hover{
+    color: darkorange;
+}
+.logo{
+    background-image: url(../htmlBook/pic3.jpg);
+    color: cornsilk;
+     font-size: 35px;
+     font-style: oblique; 
+    background-repeat:no-repeat;
+    width: 200px;
+
+}
+.heading{
+font-style: italic;
+border-radius: 25px;
+background: url(../htmlBook/pic4.jpg);
+background-position: left top;
+background-repeat: repeat;
+padding: 30px; 
+width: 530px; 
+ height: 75px; 
+color: yellowgreen;
+}
+
